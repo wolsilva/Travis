@@ -1,6 +1,6 @@
 laguage: python
 python:
-  - "3.4"
+  - "3.10"
 before_script:
   - cd src
 script:
